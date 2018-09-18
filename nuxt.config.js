@@ -25,7 +25,6 @@ module.exports = {
   // router: {
   //   middleware: "router-auth"
   // },
-  // plugins: ["~/plugins/fireauth.js", "~/plugins/vuetify.js"],
   plugins: ["~/plugins/vuetify.js"],
 
   css: ["~/assets/app.styl"],
